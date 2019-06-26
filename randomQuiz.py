@@ -4,7 +4,6 @@
 
 import random
 
-
 # The quiz data. Keys are states and values are their capitals.
 # Country: Capitals
 capitals = {'Nepal': 'Kathmandu', 'Albania': 'Tirana', 'Algeria': 'Algiers',
